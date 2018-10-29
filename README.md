@@ -8,4 +8,5 @@ This repo includes all the assignments done as a part of the Advanced Functional
 1. python 2.7 
 2. nibabel 2.3.1 (pip2 install nibabel)
 
-
+### Note
+These assignments read fMRI data (.nii files) and manipulate them. Please reach out to me at iakash2702@gmail.com if you need .nii files. 
